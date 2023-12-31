@@ -7,7 +7,7 @@ It allows you to automate many processes, improve moderation and speed up work w
 *With it, you can optimize your workflow and make your group or channel more successful.*
 Such as:
 ## -Administrator commands-
-###rioejgeri
+
 *!ban - bans the user forever*
 *!unban - unbans the user and sends him an unban message*
 *!get_admin - gives administrator rights to the user*
