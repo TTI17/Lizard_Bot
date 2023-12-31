@@ -1,4 +1,4 @@
-# 🤖Telegram bot administrator for groups.
+# 🦎 Lizard Telegram Bot.
 The bot has several commands for both administrators and users without rights.
 
 # Descriptions
