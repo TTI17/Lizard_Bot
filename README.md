@@ -16,7 +16,7 @@ Such as:
 - !get_admin - gives administrator rights to the user
 - !mute - mutes the user for a certain period
 ## -Commands for regular users-
-*!report - sends a report to the administrator as a message.*
+- !report - sends a report to the administrator as a message.
 
 ## Author
 (C) 2023 Jack_Lizard.
