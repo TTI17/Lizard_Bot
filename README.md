@@ -11,10 +11,10 @@ The bot is completely written in Python
 Such as:
 ## -Administrator commands-
 
-*!ban - bans the user forever*
-*!unban - unbans the user and sends him an unban message*
-*!get_admin - gives administrator rights to the user*
-*!mute - mutes the user for a certain period*
+- !ban - bans the user forever
+- !unban - unbans the user and sends him an unban message
+- !get_admin - gives administrator rights to the user
+- !mute - mutes the user for a certain period
 ## -Commands for regular users-
 *!report - sends a report to the administrator as a message.*
 
