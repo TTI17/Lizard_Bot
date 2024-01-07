@@ -109,14 +109,3 @@ async def commands_for_members(message:types.Message):
 @dp.message_handler()
 async def info_admins(message:types.Message):
     pass
-# @dp.message_handler()
-# async def filters(message: types.Message):
-#     k = 0
-#     member = await message.bot.get_chat_member(message.chat.id, message.from_user.id)
-#     if member.is_chat_admin() == False:
-#         for i in range(len(config.ads_words)):
-#             if str(config.ads_words[i]) in message.text:
-#                 try:
-#                     await message.delete()
-#                 except Exception:
-#                     return True
