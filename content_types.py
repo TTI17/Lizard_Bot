@@ -1,6 +1,6 @@
 from dispatcher import dp, bot
 from aiogram import types
-from filters import Is
+
 @dp.message_handler(content_types='new_chat_members')
 async def new_member(message : types.Message):
     
