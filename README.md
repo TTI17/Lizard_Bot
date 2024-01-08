@@ -19,5 +19,4 @@ Such as:
 - !report - sends a report to the administrator as a message.
 
 ## Author
-(C) 2023 Jack_Lizard.
-https://t.me/jack_lizard
+(C) 2023 [[Jack_Lizard](https://t.me/jack_lizard).
