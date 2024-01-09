@@ -2,7 +2,7 @@
 The bot has several commands for both administrators and users without rights.
 
 ## Descriptions
-Admin bot from Howkiy is a multifunctional tool for managing your Telegram community. 
+Admin bot by howkiy is a multifunctional tool for managing your Telegram community. 
 
 It allows you to automate many processes, improve moderation and speed up work with participants. 
 
