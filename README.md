@@ -26,7 +26,7 @@ Such as:
 - [x] - database in json-file added database.py file, which collects user data using messages.
 ## Ideas
 __Next thing I want to do__:
-- [ ] - add a function to collect the number of messages for a certain amount of time (for example, per day)
+- [ ] - add a function to collect the number of messages for a certain amount of time in graph(for example, per day)
 - [ ] - censorship of messages and removal of objectionable content
 
 ## Author
