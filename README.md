@@ -23,7 +23,7 @@ Such as:
 - !report - *sends a report to the administrator as a message.*
 
 # What's new
-[x] - database in json-file added database.py file, which collects user data using messages.
+- [x] - database in json-file added database.py file, which collects user data using messages.
 
 ## Author
 (C) 2023 [Jack_Lizard](https://t.me/jack_lizard).
