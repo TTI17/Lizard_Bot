@@ -19,7 +19,7 @@ Such as:
 - !unban - *unbans the user and sends him an unban message*
 - !get_admin - *gives administrator rights to the user*
 - !mute - *mutes the user for a certain period*  
-~~ !content - get a schedule of participants' activity (in development)~~
+~~!content - get a schedule of participants' activity (in development)~~
 ## __Commands for regular users__
 - !report - *sends a report to the administrator as a message.*
 
