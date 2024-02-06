@@ -22,8 +22,12 @@ Such as:
 ## __Commands for regular users__
 - !report - *sends a report to the administrator as a message.*
 
-# What's new
+## What's new
 - [x] - database in json-file added database.py file, which collects user data using messages.
+## Ideas
+__Next thing I want to do__:
+- [] - add a function to collect the number of messages for a certain amount of time (for example, per day)
+- [] - censorship of messages and removal of objectionable content
 
 ## Author
 (C) 2023 [Jack_Lizard](https://t.me/jack_lizard).
