@@ -24,7 +24,7 @@ Such as:
 - !report - *sends a report to the administrator as a message.*
 
 ## What's new
-- [x] - database in json-file added database.py file, which collects user data using messages.
+- [x] - database in json-file added database.py file, which collects user data using messages. But there is also an idea to place administrators and users in separate folders so that everything is not in a heap.
 ## Ideas
 __Next thing I want to do__:
 - [ ] - add a function to collect the number of messages for a certain amount of time in graph(for example, per day)
