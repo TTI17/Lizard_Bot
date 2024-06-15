@@ -3,8 +3,7 @@ The bot has several commands for both administrators and users without rights.
 
 #### Disclaimer
 *The bot is currently not updated due to training on the capabilities of the new version aiogram 3.4 and more.*
-*[new version 🦎 Lizard Bot]
-(https://github.com/TTI17/Lizard_Bot_2.0)
+[new version 🦎 Lizard Bot](https://github.com/TTI17/Lizard_Bot_2.0)
 ## Descriptions
 Admin bot by howkiy is a multifunctional tool for managing your Telegram community. 
 
